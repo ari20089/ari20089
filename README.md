@@ -184,8 +184,8 @@ I design and ship AI agents on Copilot Studio, Microsoft Foundry and Power Platf
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ari20089&show_icons=true&hide_border=true&count_private=true&hide_rank=true&hide=stars&theme=github_dark&hide_title=true&card_width=400">
-  <img src="https://github-readme-stats.vercel.app/api?username=ari20089&show_icons=true&hide_border=true&count_private=true&hide_rank=true&hide=stars&hide_title=true&card_width=400" alt="GitHub stats" height="150"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
+  <img src="./profile-summary-card-output/github/3-stats.svg" alt="GitHub stats" height="150"/>
 </picture><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ari20089&hide_border=true&theme=github-dark-blue">
   <img src="https://streak-stats.demolab.com?user=ari20089&hide_border=true" alt="GitHub streak" height="150"/>
