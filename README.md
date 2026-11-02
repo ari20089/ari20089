@@ -82,6 +82,22 @@ I design and ship AI agents on Copilot Studio, Microsoft Foundry and Power Platf
 
 ---
 
+## 🧰 Agents in Practice
+
+> *Ready-to-use building blocks for your own agents.* Skills, prompts, agent instructions and Adaptive Cards for Microsoft 365 Copilot, Copilot Studio, Power Automate, Teams and GitHub Copilot. Every item cites the Microsoft Learn pages it relies on, with their dates.
+
+<a href="https://ari20089.github.io/agents-in-practice/"><img src="https://img.shields.io/badge/Browse%20the%20catalog-14%20items-0070AD?style=for-the-badge&logo=githubpages&logoColor=white" alt="Browse the catalog: 14 items"/></a>
+<a href="https://github.com/ari20089/agents-in-practice"><img src="https://img.shields.io/badge/Source-ari20089%2Fagents--in--practice-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source: ari20089/agents-in-practice"/></a>
+
+| Category | Items | Examples |
+|:--|:-:|:--|
+| 🧩 **Skills** | 4 | Agent Identity Review Gate · Connected-Agent Handoff Boundaries · Computer-Using and Autonomous Agents in Regulated FS |
+| 💬 **Prompts** | 4 | Copilot Studio Harness Chooser · Code App Readiness Check · Code App PR Description |
+| 📋 **Agent instructions** | 3 | Copilot Agent Governance Reviewer |
+| 🃏 **Adaptive Cards** | 3 | Confirm Before Acting · Approval Request · Cited Answer |
+
+---
+
 ## 📐 Microsoft community contributions
 
 > Client work stays with the client. What I can publish lands in the Microsoft and PnP repos.
@@ -99,8 +115,9 @@ I design and ship AI agents on Copilot Studio, Microsoft Foundry and Power Platf
 
 <table>
   <tr><th align="left">Repo</th><th align="left">Contribution</th><th width="150" align="center">Status</th></tr>
-  <tr><td nowrap><a href="https://github.com/microsoft/cat-agent-skills/pulls?q=author%3Aari20089">microsoft/cat-agent-skills</a></td><td><b>5 Copilot Studio skills</b> · RAI impact assessment · solution compare · agent inventory audit · HVE Core adoption advisor · HVE Core RPI tracking auditor</td><td width="150" align="center"><img src="https://img.shields.io/badge/5%20PRs%20open-DBAB09?style=for-the-badge" alt="5 PRs open"/></td></tr>
-  <tr><td nowrap><a href="https://github.com/pnp/copilot-prompts/pulls?q=author%3Aari20089">pnp/copilot-prompts</a></td><td><b>5 GitHub Copilot samples</b> · declarative agent manifest builder · Code Apps RPI skill · Power Platform Build Advisor · US FS Agent Scope Writer · canvas → code app migration plan</td><td width="150" align="center"><img src="https://img.shields.io/badge/5%20PRs%20open-DBAB09?style=for-the-badge" alt="5 PRs open"/></td></tr>
+  <tr><td nowrap><a href="https://github.com/microsoft/cat-agent-skills">microsoft/cat-agent-skills</a></td><td><b>Copilot Studio skill</b> · <a href="https://microsoft.github.io/cat-agent-skills/skills/agent-rai-impact-assessment/">Agent RAI impact assessment</a></td><td width="150" align="center"><a href="https://microsoft.github.io/cat-agent-skills/skills/agent-rai-impact-assessment/"><img src="https://img.shields.io/badge/Published-2EA043?style=for-the-badge" alt="Published"/></a></td></tr>
+  <tr><td nowrap><a href="https://github.com/microsoft/cat-agent-skills/pulls?q=author%3Aari20089+state%3Aopen">microsoft/cat-agent-skills</a></td><td><b>2 Copilot Studio skills</b> · solution compare · agent inventory audit</td><td width="150" align="center"><img src="https://img.shields.io/badge/2%20PRs%20open-DBAB09?style=for-the-badge" alt="2 PRs open"/></td></tr>
+  <tr><td nowrap><a href="https://github.com/pnp/copilot-prompts/pulls?q=author%3Aari20089+state%3Aopen">pnp/copilot-prompts</a></td><td><b>5 GitHub Copilot samples</b> · declarative agent manifest builder · Code Apps RPI skill · Power Platform Build Advisor · US FS Agent Scope Writer · canvas → code app migration plan</td><td width="150" align="center"><img src="https://img.shields.io/badge/5%20PRs%20open-DBAB09?style=for-the-badge" alt="5 PRs open"/></td></tr>
   <tr><td nowrap><a href="https://github.com/pnp/blog/pull/2396">pnp/blog</a></td><td><b>Community post</b> · <i>Who keeps the judgment when AI carries the rules? Microsoft HVE Core in practice</i></td><td width="150" align="center"><img src="https://img.shields.io/badge/PR%20open-DBAB09?style=for-the-badge" alt="PR open"/></td></tr>
   <tr><td nowrap><a href="https://github.com/pnp/script-samples/pull/1025">pnp/script-samples</a></td><td><b>Script sample</b> · export SharePoint Embedded container inventory to CSV</td><td width="150" align="center"><img src="https://img.shields.io/badge/PR%20open-DBAB09?style=for-the-badge" alt="PR open"/></td></tr>
 </table>
@@ -192,19 +209,3 @@ I design and ship AI agents on Copilot Studio, Microsoft Foundry and Power Platf
 </picture>
 
 </div>
-
----
-
-## 🗺️ Coming to this repo
-
-Guides for what the market is asking for and nobody has written yet, with client detail stripped out. In this order.
-
-| | Guide | Why | Type |
-|:-:|:--|:--|:--|
-| 🧠 | **Shared agent memory governance** | No published guidance covers retention, eDiscovery or deletion for the business-process memory that Copilot Studio agent accounts now share in preview. Purview classification, holds and purge for memory, not just transcripts | 🔵&nbsp;**Market&nbsp;gap** |
-| 🔀 | **Connected-agent handoff boundaries** | Microsoft's handoff guidance is spread across three pages and never defines who may delegate what to whom, or what survives the handoff. A decision-boundary pattern per action type | 🔵&nbsp;**Market&nbsp;gap** |
-| 🖱️ | **Computer-using and autopilot agents in regulated FS** | No regulator checklist exists for UI-driven, prompt-less agents, and Microsoft's own guidance excludes financial transactions from intended use. Where the line actually sits, and the controls on either side | 🔵&nbsp;**Market&nbsp;gap** |
-| 🪪 | **Agent identity review gate** | Copilot Studio agent accounts, with their own Entra Agent ID, shared memory and event triggers, are in preview. Owners, decision rights, credit caps and audit before one goes live | 🔵&nbsp;**Market&nbsp;gap** |
-| 🔌 | **MCP 2026-07-28 migration and approval checklist** | Stateless transport, RFC 9728 resource metadata, Enterprise Managed Authorization. The long form of the 15-minute review in issue 06 | 🟢&nbsp;**Extends&nbsp;mine** |
-| 📏 | **Evaluation gate in Power Platform pipelines** | Evaluations and monitoring for Copilot Chat agents reach GA this month. A pass/fail step with golden sets and Foundry evals, as the release gate in the Governed agentic ALM architecture | 🟢&nbsp;**Extends&nbsp;mine** |
-| 🇪🇺 | **AI Act Article 50 transparency pack** | Disclosure and content-labelling duties apply since 2 August 2026. Mapped to Copilot Studio and Power Platform configuration, which nobody has published | 🔵&nbsp;**Market&nbsp;gap** |
