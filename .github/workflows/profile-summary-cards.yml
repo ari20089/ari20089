@@ -1,4 +1,4 @@
-name: Profile summary cards
+name: Update profile
 
 on:
   schedule:
@@ -23,21 +23,18 @@ jobs:
           BRANCH_NAME: main
           AUTO_PUSH: false
 
-      # Widen the stats card from 340 to 500px so it lines up with the streak card,
-      # moving the GitHub logo to stay right-aligned.
-      - name: Widen stats card
-        run: |
-          for f in profile-summary-card-output/*/3-stats.svg; do
-            sed -i -E \
-              -e 's/width="340" height="200" viewBox="0 0 340 200"/width="500" height="200" viewBox="0 0 500 200"/' \
-              -e 's/width="99\.41176470588235%"/width="498"/' \
-              -e 's/translate\(220,20\)/translate(380,20)/' \
-              "$f"
-          done
+      # The README shows the stats card at 150px high, so widen it to line up with
+      # the streak card and enlarge its text, icons and logo to stay readable.
+      - name: Restyle stats card
+        run: python3 .github/scripts/restyle_stats_card.py profile-summary-card-output/*/3-stats.svg
 
-      - name: Commit cards
+      - name: Update Agents in Practice section
+        continue-on-error: true # still commit the cards if the catalog is unreachable
+        run: python3 .github/scripts/update_agents_in_practice.py
+
+      - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile-summary-card-output
-          git diff --cached --quiet || { git commit -m "Update profile summary cards" && git push; }
+          git add profile-summary-card-output README.md
+          git diff --cached --quiet || { git commit -m "Update profile cards and Agents in Practice" && git push; }
