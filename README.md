@@ -5,7 +5,7 @@
 <h3>Production agents for regulated Financial Services<br/><sub>Provable, governed, and still running after go-live.</sub></h3>
 
 <img src="https://img.shields.io/badge/Years-18%2B-F97316?style=for-the-badge" height="30" alt="18+ years"/>
-<img src="https://img.shields.io/badge/Microsoft%20%26%20PnP%20submissions-16-10B981?style=for-the-badge" height="30" alt="16 Microsoft and PnP submissions"/>
+<img src="https://img.shields.io/badge/Microsoft%20%26%20PnP%20submissions-14-10B981?style=for-the-badge" height="30" alt="14 Microsoft and PnP submissions"/>
 <img src="https://img.shields.io/badge/Newsletter%20issues-8-EAB308?style=for-the-badge" height="30" alt="8 newsletter issues"/>
 <img src="https://img.shields.io/badge/Certifications-18-0EA5E9?style=for-the-badge" height="30" alt="18 certifications"/>
 <br/>
@@ -13,7 +13,6 @@
 
 <a href="https://www.linkedin.com/in/arindam-choudhury"><img src="https://img.shields.io/badge/LinkedIn-Connect-0F766E?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn"/></a>
 <a href="https://www.linkedin.com/newsletters/grounded-ai-architecture-7448180546180042752/"><img src="https://img.shields.io/badge/Newsletter-Grounded%3A%20AI%20%26%20Architecture-B45309?style=for-the-badge&logo=rss&logoColor=white" height="30" alt="Newsletter"/></a>
-
 </div>
 
 ---
@@ -28,7 +27,7 @@ I design and ship AI agents on Copilot Studio, Microsoft Foundry and Power Platf
 - 🎖️ **Frontier.** I hold Microsoft's Frontier Transformation Engineer credential, the partner badge for people who actually ship AI, not just pilot it. Earning it meant passing the GitHub Copilot, Azure AI and agent builder exams and then the Frontier and Hyper-Velocity Engineering assessment. That is where my HVE Core work started
 - 🧰 **Code.** Hands-on C#/.NET, TypeScript, APIs and Azure keep the architecture honest about what can actually be built
 - ✍️ **Write.** Grounded: AI & Architecture, a newsletter on enterprise AI delivery: the trade-offs, the failure modes, and what survives contact with production
-- 🤝 **Connect.** USA, with Capgemini. Moving agents from pilot to production in a regulated environment, or stuck on why yours stalled? Glad to compare notes
+- 🤝 **Connect.** Based in the USA, with Capgemini. Moving agents from pilot to production in a regulated environment, or stuck on why yours stalled? Glad to compare notes
 
 ---
 
@@ -104,6 +103,11 @@ I design and ship AI agents on Copilot Studio, Microsoft Foundry and Power Platf
 
 > Client work stays with the client. What I can publish lands in the Microsoft and PnP repos.
 
+<img src="https://img.shields.io/badge/Published-3-2EA043?style=for-the-badge" height="30" alt="3 published"/>
+<img src="https://img.shields.io/badge/Approved-1-2EA043?style=for-the-badge" height="30" alt="1 approved"/>
+<img src="https://img.shields.io/badge/In%20review-2-DBAB09?style=for-the-badge" height="30" alt="2 in review"/>
+<img src="https://img.shields.io/badge/PRs%20open-8-DBAB09?style=for-the-badge" height="30" alt="8 PRs open"/>
+
 ### Reference architectures · [microsoft/PowerPnPGuidanceHub](https://github.com/microsoft/PowerPnPGuidanceHub)
 
 <table>
@@ -115,12 +119,13 @@ I design and ship AI agents on Copilot Studio, Microsoft Foundry and Power Platf
 
 ### Skills, samples and posts · October 2026
 
-<table>
+<table width="100%">
   <tr><th align="left">Repo</th><th align="left">Contribution</th><th width="150" align="center">Status</th></tr>
   <tr><td nowrap><a href="https://github.com/microsoft/cat-agent-skills">microsoft/cat-agent-skills</a></td><td><b>Copilot Studio skill</b> · <a href="https://microsoft.github.io/cat-agent-skills/skills/agent-rai-impact-assessment/">Agent RAI impact assessment</a></td><td width="150" align="center"><a href="https://microsoft.github.io/cat-agent-skills/skills/agent-rai-impact-assessment/"><img src="https://img.shields.io/badge/Published-2EA043?style=for-the-badge" alt="Published"/></a></td></tr>
   <tr><td nowrap><a href="https://github.com/microsoft/cat-agent-skills">microsoft/cat-agent-skills</a></td><td><b>Copilot Studio skill</b> · <a href="https://microsoft.github.io/cat-agent-skills/skills/power-platform-solution-compare/">Power Platform solution compare</a></td><td width="150" align="center"><a href="https://microsoft.github.io/cat-agent-skills/skills/power-platform-solution-compare/"><img src="https://img.shields.io/badge/Published-2EA043?style=for-the-badge" alt="Published"/></a></td></tr>
-  <tr><td nowrap><a href="https://github.com/microsoft/cat-agent-skills/pulls?q=author%3Aari20089+state%3Aopen">microsoft/cat-agent-skills</a></td><td><b>Copilot Studio skill</b> · agent inventory audit</td><td width="150" align="center"><img src="https://img.shields.io/badge/PR%20open-DBAB09?style=for-the-badge" alt="PR open"/></td></tr>
-  <tr><td nowrap><a href="https://github.com/pnp/copilot-prompts/pulls?q=author%3Aari20089+state%3Aopen">pnp/copilot-prompts</a></td><td><b>5 GitHub Copilot samples</b> · declarative agent manifest builder · Code Apps RPI skill · Power Platform Build Advisor · US FS Agent Scope Writer · canvas → code app migration plan</td><td width="150" align="center"><img src="https://img.shields.io/badge/5%20PRs%20open-DBAB09?style=for-the-badge" alt="5 PRs open"/></td></tr>
+  <tr><td nowrap><a href="https://github.com/microsoft/cat-agent-skills/pulls?q=author%3Aari20089+state%3Aopen">microsoft/cat-agent-skills</a></td><td><b>Copilot Studio skill</b> · Agent inventory audit</td><td width="150" align="center"><img src="https://img.shields.io/badge/PR%20open-DBAB09?style=for-the-badge" alt="PR open"/></td></tr>
+  <tr><td nowrap><a href="https://github.com/microsoft/copilot-studio-gallery/pull/97">microsoft/copilot-studio-gallery</a></td><td><b>Copilot Studio agent</b> · 401(k) Loan &amp; Withdrawal Assistant</td><td width="150" align="center"><img src="https://img.shields.io/badge/PR%20open-DBAB09?style=for-the-badge" alt="PR open"/></td></tr>
+  <tr><td nowrap><a href="https://github.com/pnp/copilot-prompts/pulls?q=author%3Aari20089+state%3Aopen">pnp/copilot-prompts</a></td><td><b>5 Copilot samples</b><br/><i>Skills:</i> Declarative agent manifest builder, Code Apps RPI skill<br/><i>Agent instructions:</i> Power Platform Build Advisor, US FS Agent Scope Writer<br/><i>Prompt:</i> Canvas → code app migration plan</td><td width="150" align="center"><img src="https://img.shields.io/badge/5%20PRs%20open-DBAB09?style=for-the-badge" alt="5 PRs open"/></td></tr>
   <tr><td nowrap><a href="https://github.com/pnp/blog/pull/2396">pnp/blog</a></td><td><b>Community post</b> · <i>Who keeps the judgment when AI carries the rules? Microsoft HVE Core in practice</i></td><td width="150" align="center"><img src="https://img.shields.io/badge/PR%20open-DBAB09?style=for-the-badge" alt="PR open"/></td></tr>
   <tr><td nowrap><a href="https://github.com/pnp/script-samples">pnp/script-samples</a></td><td><b>Script sample</b> · <a href="https://pnp.github.io/script-samples/spe-export-container-inventory-to-csv/README.html?tabs=pnpps">Export SharePoint Embedded container inventory to CSV</a></td><td width="150" align="center"><a href="https://pnp.github.io/script-samples/spe-export-container-inventory-to-csv/README.html?tabs=pnpps"><img src="https://img.shields.io/badge/Published-2EA043?style=for-the-badge" alt="Published"/></a></td></tr>
 </table>
@@ -210,5 +215,17 @@ I design and ship AI agents on Copilot Studio, Microsoft Foundry and Power Platf
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ari20089&hide_border=true&theme=github-dark-blue">
   <img src="https://streak-stats.demolab.com?user=ari20089&hide_border=true" alt="GitHub streak" height="150"/>
 </picture>
+
+</div>
+
+---
+
+<div align="center">
+
+**Shipping an agent into a regulated business, or trying to work out why yours stalled?**
+
+<a href="https://www.linkedin.com/in/arindam-choudhury"><img src="https://img.shields.io/badge/Let's%20talk-LinkedIn-0F766E?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="Let's talk on LinkedIn"/></a>
+<a href="https://www.linkedin.com/newsletters/grounded-ai-architecture-7448180546180042752/"><img src="https://img.shields.io/badge/Read-Grounded%3A%20AI%20%26%20Architecture-B45309?style=for-the-badge&logo=rss&logoColor=white" height="30" alt="Read the newsletter"/></a>
+<a href="https://ari20089.github.io/agents-in-practice/"><img src="https://img.shields.io/badge/Use-Agents%20in%20Practice-0070AD?style=for-the-badge" height="30" alt="Use Agents in Practice"/></a>
 
 </div>
