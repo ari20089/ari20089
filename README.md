@@ -103,10 +103,12 @@ I design and ship AI agents on Copilot Studio, Microsoft Foundry and Power Platf
 
 > Client work stays with the client. What I can publish lands in the Microsoft and PnP repos.
 
+<p>
 <img src="https://img.shields.io/badge/Published-3-2EA043?style=for-the-badge" height="30" alt="3 published"/>
 <img src="https://img.shields.io/badge/Approved-1-2EA043?style=for-the-badge" height="30" alt="1 approved"/>
 <img src="https://img.shields.io/badge/In%20review-2-DBAB09?style=for-the-badge" height="30" alt="2 in review"/>
 <img src="https://img.shields.io/badge/PRs%20open-8-DBAB09?style=for-the-badge" height="30" alt="8 PRs open"/>
+</p>
 
 ### Reference architectures · [microsoft/PowerPnPGuidanceHub](https://github.com/microsoft/PowerPnPGuidanceHub)
 
