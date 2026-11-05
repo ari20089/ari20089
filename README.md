@@ -86,15 +86,15 @@ I design and ship AI agents on Copilot Studio, Microsoft Foundry and Power Platf
 > *Ready-to-use building blocks for your own agents.* Skills, prompts, agent instructions and Adaptive Cards for Microsoft 365 Copilot, Copilot Studio, Power Automate, Teams and GitHub Copilot. Every item cites the Microsoft Learn pages it relies on, with their dates.
 
 <!-- AGENTS-IN-PRACTICE:START -->
-<a href="https://ari20089.github.io/agents-in-practice/"><img src="https://img.shields.io/badge/Browse%20the%20catalog-14%20items-0070AD?style=for-the-badge" alt="Browse the catalog: 14 items"/></a>
+<a href="https://ari20089.github.io/agents-in-practice/"><img src="https://img.shields.io/badge/Browse%20the%20catalog-16%20items-0070AD?style=for-the-badge" alt="Browse the catalog: 16 items"/></a>
 <a href="https://github.com/ari20089/agents-in-practice"><img src="https://img.shields.io/badge/Source-ari20089%2Fagents--in--practice-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source: ari20089/agents-in-practice"/></a>
 
 | Category | Items | Latest |
 |:--|:-:|:--|
 | 🧩 **Skills** | 4 | [Agent Identity Review Gate](https://ari20089.github.io/agents-in-practice/skills/agent-identity-review-gate/) · [Computer-Using and Autonomous Agents in Regulated FS](https://ari20089.github.io/agents-in-practice/skills/computer-use-autonomous-agents-fs/) · [Connected-Agent Handoff Boundaries](https://ari20089.github.io/agents-in-practice/skills/connected-agent-handoff-boundaries/) |
-| 💬 **Prompts** | 4 | [Code App PR Description](https://ari20089.github.io/agents-in-practice/prompts/code-app-pr-description/) · [Copilot Studio Harness Chooser](https://ari20089.github.io/agents-in-practice/prompts/copilot-studio-harness-chooser/) · [Power Platform ADR](https://ari20089.github.io/agents-in-practice/prompts/power-platform-adr/) |
+| 💬 **Prompts** | 5 | [HVE Core Adoption Check](https://ari20089.github.io/agents-in-practice/prompts/hve-core-adoption-check/) · [Code App PR Description](https://ari20089.github.io/agents-in-practice/prompts/code-app-pr-description/) · [Copilot Studio Harness Chooser](https://ari20089.github.io/agents-in-practice/prompts/copilot-studio-harness-chooser/) |
 | 📋 **Agent instructions** | 3 | [Dataverse Table Designer](https://ari20089.github.io/agents-in-practice/agent-instructions/dataverse-table-designer/) · [Copilot Agent Governance Reviewer](https://ari20089.github.io/agents-in-practice/agent-instructions/copilot-agent-governance-reviewer/) · [Connector Call Wrapper Generator](https://ari20089.github.io/agents-in-practice/agent-instructions/connector-call-wrapper-generator/) |
-| 🃏 **Adaptive Cards** | 3 | [Cited Answer](https://ari20089.github.io/agents-in-practice/adaptive-cards/cited-answer/) · [Confirm Before Acting](https://ari20089.github.io/agents-in-practice/adaptive-cards/confirm-before-acting/) · [Approval Request](https://ari20089.github.io/agents-in-practice/adaptive-cards/approval-request/) |
+| 🃏 **Adaptive Cards** | 4 | [Plan Approval](https://ari20089.github.io/agents-in-practice/adaptive-cards/plan-approval/) · [Cited Answer](https://ari20089.github.io/agents-in-practice/adaptive-cards/cited-answer/) · [Confirm Before Acting](https://ari20089.github.io/agents-in-practice/adaptive-cards/confirm-before-acting/) |
 <!-- AGENTS-IN-PRACTICE:END -->
 
 ---
