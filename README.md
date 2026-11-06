@@ -119,7 +119,7 @@ I design and ship AI agents on Copilot Studio, Microsoft Foundry and Power Platf
   <tr><td width="150" align="center"><img src="https://img.shields.io/badge/In%20review-DBAB09?style=for-the-badge" alt="In review"/></td><td><a href="https://github.com/microsoft/PowerPnPGuidanceHub/issues/117"><b>Governed agentic ALM</b> with HVE Core &amp; Power Platform pipelines</a></td><td>AI-built code-first components, governed from how a change is produced to how it is deployed</td></tr>
 </table>
 
-### Skills, samples and posts · October–November 2026
+### Skills, agents, samples and posts
 
 <table width="100%">
   <tr><th align="left">Repo</th><th align="left">Contribution</th><th width="150" align="center">Status</th></tr>
