@@ -104,10 +104,10 @@ I design and ship AI agents on Copilot Studio, Microsoft Foundry and Power Platf
 > Client work stays with the client. What I can publish lands in the Microsoft and PnP repos.
 
 <p>
-<img src="https://img.shields.io/badge/Published-3-2EA043?style=for-the-badge" height="30" alt="3 published"/>
+<img src="https://img.shields.io/badge/Published-4-2EA043?style=for-the-badge" height="30" alt="4 published"/>
 <img src="https://img.shields.io/badge/Approved-1-2EA043?style=for-the-badge" height="30" alt="1 approved"/>
 <img src="https://img.shields.io/badge/In%20review-2-DBAB09?style=for-the-badge" height="30" alt="2 in review"/>
-<img src="https://img.shields.io/badge/PRs%20open-8-DBAB09?style=for-the-badge" height="30" alt="8 PRs open"/>
+<img src="https://img.shields.io/badge/PRs%20open-7-DBAB09?style=for-the-badge" height="30" alt="7 PRs open"/>
 </p>
 
 ### Reference architectures · [microsoft/PowerPnPGuidanceHub](https://github.com/microsoft/PowerPnPGuidanceHub)
@@ -119,7 +119,7 @@ I design and ship AI agents on Copilot Studio, Microsoft Foundry and Power Platf
   <tr><td width="150" align="center"><img src="https://img.shields.io/badge/In%20review-DBAB09?style=for-the-badge" alt="In review"/></td><td><a href="https://github.com/microsoft/PowerPnPGuidanceHub/issues/117"><b>Governed agentic ALM</b> with HVE Core &amp; Power Platform pipelines</a></td><td>AI-built code-first components, governed from how a change is produced to how it is deployed</td></tr>
 </table>
 
-### Skills, samples and posts · October 2026
+### Skills, samples and posts · October–November 2026
 
 <table width="100%">
   <tr><th align="left">Repo</th><th align="left">Contribution</th><th width="150" align="center">Status</th></tr>
@@ -128,7 +128,7 @@ I design and ship AI agents on Copilot Studio, Microsoft Foundry and Power Platf
   <tr><td nowrap><a href="https://github.com/microsoft/cat-agent-skills/pulls?q=author%3Aari20089+state%3Aopen">microsoft/cat-agent-skills</a></td><td><b>Copilot Studio skill</b> · Agent inventory audit</td><td width="150" align="center"><img src="https://img.shields.io/badge/PR%20open-DBAB09?style=for-the-badge" alt="PR open"/></td></tr>
   <tr><td nowrap><a href="https://github.com/microsoft/copilot-studio-gallery/pull/97">microsoft/copilot-studio-gallery</a></td><td><b>Copilot Studio agent</b> · 401(k) Loan &amp; Withdrawal Assistant</td><td width="150" align="center"><img src="https://img.shields.io/badge/PR%20open-DBAB09?style=for-the-badge" alt="PR open"/></td></tr>
   <tr><td nowrap><a href="https://github.com/pnp/copilot-prompts/pulls?q=author%3Aari20089+state%3Aopen">pnp/copilot-prompts</a></td><td><b>5 Copilot samples</b><br/><i>Skills:</i> Declarative agent manifest builder, Code Apps RPI skill<br/><i>Agent instructions:</i> Power Platform Build Advisor, US FS Agent Scope Writer<br/><i>Prompt:</i> Canvas → code app migration plan</td><td width="150" align="center"><img src="https://img.shields.io/badge/5%20PRs%20open-DBAB09?style=for-the-badge" alt="5 PRs open"/></td></tr>
-  <tr><td nowrap><a href="https://github.com/pnp/blog/pull/2396">pnp/blog</a></td><td><b>Community post</b> · <i>Who keeps the judgment when AI carries the rules? Microsoft HVE Core in practice</i></td><td width="150" align="center"><img src="https://img.shields.io/badge/PR%20open-DBAB09?style=for-the-badge" alt="PR open"/></td></tr>
+  <tr><td nowrap><a href="https://github.com/pnp/blog">pnp/blog</a></td><td><b>Community post</b> · <a href="https://pnp.github.io/blog/post/microsoft-hve-core-governed-agentic-engineering/"><i>Who keeps the judgment when AI carries the rules? Microsoft HVE Core in practice</i></a></td><td width="150" align="center"><a href="https://pnp.github.io/blog/post/microsoft-hve-core-governed-agentic-engineering/"><img src="https://img.shields.io/badge/Published-2EA043?style=for-the-badge" alt="Published"/></a></td></tr>
   <tr><td nowrap><a href="https://github.com/pnp/script-samples">pnp/script-samples</a></td><td><b>Script sample</b> · <a href="https://pnp.github.io/script-samples/spe-export-container-inventory-to-csv/README.html?tabs=pnpps">Export SharePoint Embedded container inventory to CSV</a></td><td width="150" align="center"><a href="https://pnp.github.io/script-samples/spe-export-container-inventory-to-csv/README.html?tabs=pnpps"><img src="https://img.shields.io/badge/Published-2EA043?style=for-the-badge" alt="Published"/></a></td></tr>
 </table>
 
